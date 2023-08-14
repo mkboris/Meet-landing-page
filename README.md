@@ -26,8 +26,8 @@ Users should be able to:
 ![](/design/Screenshot.jpeg)
 ### Links
 
-- Solution URL: https://github.com/mkboris/Equalizer-landing-page
-- Live Site URL: https://mkboris.github.io/Equalizer-landing-page/
+- Solution URL: https://github.com/mkboris/Meet-landing-page
+- Live Site URL: https://mkboris.github.io/Meet-landing-page/
 
 ### Built with
 
