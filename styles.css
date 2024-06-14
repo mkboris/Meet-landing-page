@@ -266,7 +266,7 @@ span {
   gap: 1.5rem;
   margin: 4rem auto;
   max-width: 31.25rem;
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 .gallery-img {
